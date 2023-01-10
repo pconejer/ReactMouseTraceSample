@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@pixi/constants": ">=6.0.4 <8.0.0",
+    "@pixi/core": ">=6.0.4 <8.0.0",
+    "@pixi/display": ">=6.0.4 <8.0.0",
+    "@pixi/math": ">=6.0.4 <8.0.0",
+    "@pixi/particle-emitter": "^5.0.8",
+    "@pixi/sprite": ">=6.0.4 <8.0.0",
+    "@pixi/ticker": ">=6.0.4 <8.0.0",
+    "pixi.js": "^7.0.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
