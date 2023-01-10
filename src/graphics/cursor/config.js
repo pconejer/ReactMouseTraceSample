@@ -1,5 +1,6 @@
 import {BehaviorEntry, EmitterConfigV3} from '@pixi/particle-emitter'
 import {Texture} from 'pixi.js'
+import particle from './assets/particle.png'
 
 
 
